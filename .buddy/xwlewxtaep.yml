@@ -1,0 +1,4 @@
+- pipeline: xwlewxtaep
+  refs:
+  - refs/heads/master
+  on: CLICK
