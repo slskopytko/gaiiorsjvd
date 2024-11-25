@@ -1,4 +1,4 @@
-- pipeline: xwlewxtaep
+- pipeline: Xwlewxtaep
   refs:
   - refs/heads/master
   on: CLICK
